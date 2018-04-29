@@ -1,5 +1,5 @@
 # baseURL = "/"
-baseURL = "https://github.com/mmclssg1/docdocker"
+baseURL = "https://github.com/mmclssg1/docdocker/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
