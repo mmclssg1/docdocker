@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on DocDock Documentation</title>
-    <link>https://mmclssg1.github.io/mmclssg1/docdocker/</link>
+    <link>https://mmclssg1.github.io/docdocker/</link>
     <description>Recent content in Home on DocDock Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Apr 2018 13:05:44 +0100</lastBuildDate>
     
-	<atom:link href="https://mmclssg1.github.io/mmclssg1/docdocker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mmclssg1.github.io/docdocker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Win_config</title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/config/win_config/</link>
+      <link>https://mmclssg1.github.io/docdocker/config/win_config/</link>
       <pubDate>Mon, 23 Apr 2018 14:10:58 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/config/win_config/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/config/win_config/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux_install</title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/gettingstarted/linux_install/</link>
+      <link>https://mmclssg1.github.io/docdocker/gettingstarted/linux_install/</link>
       <pubDate>Mon, 23 Apr 2018 13:05:44 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/gettingstarted/linux_install/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/gettingstarted/linux_install/</guid>
       <description>Linux Install wibble stuff</description>
     </item>
     
     <item>
       <title>Linux_config</title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/config/linux_config/</link>
+      <link>https://mmclssg1.github.io/docdocker/config/linux_config/</link>
       <pubDate>Mon, 23 Apr 2018 14:07:41 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/config/linux_config/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/config/linux_config/</guid>
       <description> Linux Configuration </description>
     </item>
     
     <item>
       <title>win_install</title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/gettingstarted/win_install/</link>
+      <link>https://mmclssg1.github.io/docdocker/gettingstarted/win_install/</link>
       <pubDate>Mon, 23 Apr 2018 13:05:44 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/gettingstarted/win_install/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/gettingstarted/win_install/</guid>
       <description> Windows Install </description>
     </item>
     
     <item>
       <title>Mac_config</title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/config/mac_config/</link>
+      <link>https://mmclssg1.github.io/docdocker/config/mac_config/</link>
       <pubDate>Mon, 23 Apr 2018 14:06:55 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/config/mac_config/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/config/mac_config/</guid>
       <description> Mac Configuration </description>
     </item>
     
     <item>
       <title>mac_install</title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/gettingstarted/mac_install/</link>
+      <link>https://mmclssg1.github.io/docdocker/gettingstarted/mac_install/</link>
       <pubDate>Mon, 23 Apr 2018 13:05:44 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/gettingstarted/mac_install/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/gettingstarted/mac_install/</guid>
       <description> Mac Install </description>
     </item>
     
     <item>
       <title>Unix_config</title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/config/unix_config/</link>
+      <link>https://mmclssg1.github.io/docdocker/config/unix_config/</link>
       <pubDate>Mon, 23 Apr 2018 14:30:45 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/config/unix_config/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/config/unix_config/</guid>
       <description> Unix configuration </description>
     </item>
     
     <item>
       <title>Bsd_config</title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/config/bsd_config/</link>
+      <link>https://mmclssg1.github.io/docdocker/config/bsd_config/</link>
       <pubDate>Mon, 23 Apr 2018 15:21:31 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/config/bsd_config/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/config/bsd_config/</guid>
       <description> Hello BSD var =1 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mmclssg1.github.io/mmclssg1/docdocker/_header/</link>
+      <link>https://mmclssg1.github.io/docdocker/_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mmclssg1.github.io/mmclssg1/docdocker/_header/</guid>
+      <guid>https://mmclssg1.github.io/docdocker/_header/</guid>
       <description>Select Product Vanilla Strawberry Caramel</description>
     </item>
     
