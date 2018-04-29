@@ -63,6 +63,13 @@
 	"content": " Mac Install "
 },
 {
+	"uri": "https://mmclssg1.github.io/docdocker/gettingstarted/bsd_install/",
+	"title": "BSD_install",
+	"tags": [],
+	"description": "",
+	"content": " BSD Install wibble stuff\n"
+},
+{
 	"uri": "https://mmclssg1.github.io/docdocker/config/unix_config/",
 	"title": "Unix_config",
 	"tags": [],
